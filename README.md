@@ -10,8 +10,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 Budding Developer trying to experiment with new technologies.
-- 💬 Ask me about ...
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-oze-7bb707208)
+
+- 🌱 Budding Developer.
+- :telescope: Currently exploring IoT Development and Full Stack technologies.
+- :mailbox:Reach me on: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-oze-7bb707208)
 
 
