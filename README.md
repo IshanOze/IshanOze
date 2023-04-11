@@ -10,8 +10,9 @@
 Here are some ideas to get you started:
 
 
-- 🌱 Budding Developer.
-- :telescope: Exploring IoT Development and Full Stack technologies.
+- 🌱 Relentless. Unabated. Persistent.
+- :telescope: Swotting Frontend Technologies
+- 
 - :mailbox:Reach me on: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-oze-7bb707208)
 
 
