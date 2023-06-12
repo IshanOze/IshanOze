@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 
 
 - 🌱 Relentless. Unabated. Persistent.
-- :telescope: Swotting Frontend Technologies
 - :mailbox:Reach me on: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-oze-7bb707208)
 
 
