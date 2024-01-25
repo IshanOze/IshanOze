@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ishan Oze</h1>
-<h3 align="center">An ardent Data Analyst with a keen interest in Finance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanoze&label=Profile%20views&color=0e75b6&style=flat" alt="ishanoze" /> </p>
 
 - 🌱 I’m currently learning **AWS, GCP**
 
-- 💬 Ask me about **Power BI, SQL, Python**
+- 💬 Ask me about **Cloud, SQL, Python, Power BI**
 
 - 📫 How to reach me **ishan.oze@gmail.com**
 
